@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Rudragoud 👋
 
-**gowdesh586/gowdesh586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rudragoud Patil** is a ✨ _Extreme Programmer_ ✨
 
 Here are some ideas to get you started:
 
