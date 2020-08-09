@@ -13,4 +13,4 @@ I am software engineer and researcher student.
    
    - 📫 How to reach me: gwd.patil9@gmail.com
    - 😄 Pronouns: He/His
-   - ⚡ Fun fact: Working with Scrum Professional.
+   - ⚡ Fun fact: Working with Agile Professional.
